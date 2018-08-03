@@ -87,8 +87,3 @@ def is_integer(s):
 		return True
 	except ValueError:
 		return False
-
-import random
-
-my_random_list = [random.choice(range(45000,50000)) for i in range(10000)]
-classifylist(my_random_list)

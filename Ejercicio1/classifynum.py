@@ -1,5 +1,8 @@
 """
 Module classifynum with the solution of the code test for DEVO
+
+Author: Sergio Dominguez Fernandez
+Date: 03/08/2018
 """
 
 def classifylist(listanums):
